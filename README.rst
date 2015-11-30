@@ -6,8 +6,6 @@ redturtle.prepoverlays
 
 * `Source code @ GitHub <https://github.com/RedTurtle/redturtle.prepoverlays>`_
 * `Releases @ PyPI <http://pypi.python.org/pypi/redturtle.prepoverlays>`_
-* `Documentation @ ReadTheDocs <http://redturtleprepoverlays.readthedocs.org>`_
-* `Continuous Integration @ Travis-CI <http://travis-ci.org/RedTurtle/redturtle.prepoverlays>`_
 
 How it works
 ============
