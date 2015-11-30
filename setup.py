@@ -17,7 +17,7 @@ long_description = "\n\n".join((
 
 setup(
     name='redturtle.prepoverlays',
-    version='1.0.0',
+    version='1.0.1.dev0',
     description="Trigger Plone overlays by using data attributes",
     long_description=long_description,
     # Get more from http://pypi.python.org/pypi?%3Aaction=list_classifiers
